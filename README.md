@@ -8,14 +8,14 @@ House keeping notes:
 - You'll have to create an *issue* if you want to be able to assign specific tasks and make comments within **Projects**.
 - Have fun :)
 
-###The intention###
+### The intention
 The goal of this work is to help others with little no to computer background understand some fundamentals
 about tools that we think they might need in their upcoming cybersecurity career. 
 This is one of three concentrations: the other two are networking and programming. 
 
 We hope that everyone involved in the project learns useful skills. 
 
-###Table of Contents###
+### Table of Contents
 Unit 1 - focuses on virtual machines (VMs) and the intracies of Windows 10 and Ubuntu 20
 Unit 2 - focuses on maintenance of virtual machines and other knowledge we think would be useful on an enterprise level
 Unit 3 - focuses on containers, specifically Docker, their setup and maintenance
